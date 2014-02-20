@@ -5,7 +5,6 @@ Fleksy Keyboard for iOS
 Give your users the choice of an alternative keyboard for the _first time ever_ on iOS!
 
 ## Usage
-
 1. Add `Fleksy.framework` to your project, as well as `AudioToolbox.framework` and `QuartzCore.framework`
 
 2. Set the following flags under “Other Linker Flags”: `-lc++` and `-ObjC`
@@ -17,15 +16,12 @@ Give your users the choice of an alternative keyboard for the _first time ever_ 
 Users can now switch to Fleksy by invoking the Edit menu on any input field (long tap or double tap).
 
 ## Affiliate setup
-
 Optionally, implement this in your UIApplicationDelegate and return your affiliate ID: `- (NSString *)fleksyAffiliateID;`
 
-## Custom text views
-
+## Notes
 If you are using a custom view that is not extending UITextField/UITextView, implement this in your UIApplicationDelegate: `- (BOOL) fleksyShouldEnableCustomViewSupport;`
 
 ## Questions?
-
 Please see the [Wiki](https://github.com/Fleksy/FleksySDK/wiki) and use the [Issues](https://github.com/Fleksy/FleksySDK/issues) page for making feature requests and reporting issues.
 
 ## _Happy Typing!_
