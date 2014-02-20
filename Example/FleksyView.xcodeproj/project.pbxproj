@@ -45,7 +45,6 @@
 		61762379188605200020EA82 /* Fleksy.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Fleksy.framework; path = ../Fleksy.framework; sourceTree = "<group>"; };
 		61BF37C217C557870093F7F3 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		61BF37C417C557B60093F7F3 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		61BF37C617C557BE0093F7F3 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				61762379188605200020EA82 /* Fleksy.framework */,
-				61BF37C617C557BE0093F7F3 /* libz.dylib */,
 				61BF37C417C557B60093F7F3 /* AudioToolbox.framework */,
 				61BF37C217C557870093F7F3 /* QuartzCore.framework */,
 				61257035174DC009001DCED7 /* UIKit.framework */,
