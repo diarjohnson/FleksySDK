@@ -1,6 +1,6 @@
 Fleksy Keyboard for iOS
 =================
-©2013-2014 Syntellia Inc. v1.0
+©2013-2014 Fleksy, v1.0
 
 ## Usage
 
