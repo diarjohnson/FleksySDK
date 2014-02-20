@@ -18,13 +18,13 @@ Users can now switch to Fleksy by invoking the Edit menu on any input field! (lo
 
 Optionally, implement this in your UIApplicationDelegate and return your affiliate ID: `- (NSString *)fleksyAffiliateID;`
 
-## Questions?
-
-Please use GitHub Issues for making feature requests and reporting issues.
-
 ## Custom text views
 
 If you are using a custom view that is not extending UITextField/UITextView, implement this in your UIApplicationDelegate: `- (BOOL) fleksyShouldEnableCustomViewSupport;`
 
-Happy Typing!
+## Questions?
+
+Please use GitHub Issues for making feature requests and reporting issues.
+
+## Happy Typing!
 
